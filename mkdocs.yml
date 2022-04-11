@@ -7,7 +7,7 @@ edit_uri: ""
 
 use_directory_urls: true
 docs_dir: .
-theme:
+theme: jekyll-theme-architect
   name: material
   language: zh
   features:
